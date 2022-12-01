@@ -4,7 +4,7 @@ Already then I got started with assembler, basic and other languages on the scho
 
 So I have worked with and got educated in:
 - ZX Spectrum - Basic and Machine code.
-- RC Parther - Comal and Pascal on CP/M
+- RC Partner - Comal and Pascal on CP/M
 - Butler - Comal and Pascal on CP/M
 - Amiga - MC680x0 assembler and C
 - Rovsing - CCP/M - Cobol and Pascal
